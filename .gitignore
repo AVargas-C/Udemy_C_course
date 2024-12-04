@@ -1,5 +1,5 @@
-.o
-.out
+*.o
+*.out
 
 ## MACOS gitignore template
 # General
